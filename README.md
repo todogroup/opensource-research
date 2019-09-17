@@ -22,5 +22,5 @@ A list of research around open source and relevant quotes
 
 * [FAU: Predictors of Successful Open Source Projects](frieß-2019-thesis.pdf)
 * [FAU: Why Do Episodic Volunteers Stay in FLOSS Communities?](8656_Preprint.pdf)
-* [UFMG: How do Developers Promote Open Source Projects?](1908.04219.pdf)
+* [UFMG: How do Developers Promote Open Source Projects?](https://arxiv.org/pdf/1908.04219.pdf)
 
