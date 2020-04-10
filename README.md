@@ -23,4 +23,5 @@ A list of research around open source and relevant quotes
 * [FAU: Predictors of Successful Open Source Projects](frieß-2019-thesis.pdf)
 * [FAU: Why Do Episodic Volunteers Stay in FLOSS Communities?](8656_Preprint.pdf)
 * [UFMG: How do Developers Promote Open Source Projects?](https://arxiv.org/pdf/1908.04219.pdf)
+* [EMSE 2018: On the Challenges of Open-Sourcing Proprietary Software Projects](https://medium.com/@gustavopinto/on-the-challenges-of-open-sourcing-proprietary-software-projects-44ce94968502)
 
