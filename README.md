@@ -14,12 +14,14 @@ A list of research around open source and relevant quotes
 ## Open Source Foundations
 
 * [Henrik Ingo: How to grow your open source project 10x and revenues 5x](http://openlife.cc/blogs/2010/november/how-grow-your-open-source-project-10x-and-revenues-5x) ([PDF](How to Grow Your Open Source Project 10x and Revenues 5x Presentation.pdf))
-* [FAU: Managing Commercial Conflicts of Interest in Open Source Foundations](hazer-2018-thesis.pdf)
+* [FAU: Managing Commercial Conflicts of Interest in Open Source Foundations](https://dirkriehle.com/wp-content/uploads/2019/09/weikert-etal-2019-managing.pdf)
 * [FAU: The Economics of Open Source User Foundations](schwab-2018-arbeit.pdf)
 
 
 ## Other Open Source Research
 
+* [Open Source Governance:
+Getting Started Best Practices For Software Companies](https://osr.cs.fau.de/wp-content/uploads/2018/07/hazer-2018-thesis.pdf)
 * [FAU: Predictors of Successful Open Source Projects](frieß-2019-thesis.pdf)
 * [FAU: Why Do Episodic Volunteers Stay in FLOSS Communities?](8656_Preprint.pdf)
 * [UFMG: How do Developers Promote Open Source Projects?](https://arxiv.org/pdf/1908.04219.pdf)
